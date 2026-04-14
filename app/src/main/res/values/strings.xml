@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FAST Fit</string>
+
+    <!-- UI Text -->
+    <string name="app_name_fastfit">FASTFit</string>
+    <string name="welcome_to_fastfit">Welcome to FASTFit</string>
+    <string name="onboarding_instructions">Plan your workout routine and book gym slots to reserve your spot. Stay fit, stay strong!</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="workout_list">Workout List</string>
+
+    <string name="leg_press">Leg Press</string>
+    <string name="lat_pulldown">Lat Pulldown</string>
+    <string name="chest_press">Chest Press</string>
+
+    <string name="leg_press_info">3 sets of 10</string>
+    <string name="lat_pulldown_info">3 sets of 12</string>
+    <string name="chest_press_info">15 min</string>
+
+    <string name="book_slot">BOOK SLOT</string>
+    <string name="watch_tutorial">WATCH TUTORIAL</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+
+    <string name="proceed_to_nutrition">PROCEED TO NUTRITION</string>
+    <string name="confirm_workout">CONFIRM WORKOUT</string>
+    <string name="slot_booking">Slot Booking</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="workout_summary">Workout Summary</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="send_plan">SEND PLAN</string>
+    <string name="send_sms">SEND SMS</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Diagonal red to light gradient -->
+    <gradient
+        android:angle="315"
+        android:startColor="#B80000"
+        android:centerColor="#E60000"
+        android:endColor="#FFF5F5"
+        android:type="linear" />
+</shape>
